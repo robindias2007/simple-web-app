@@ -2,7 +2,7 @@
 <%@taglib prefix="t" tagdir="/WEB-INF/tags" %>
 
 <t:wrapper title="Home">
-	This sisi is demo Simple web application using jsp,servlet &amp; Jdbc.
+	This is a simple demo  with Simple web application using jsp,servlet &amp; Jdbc.
 	<br>
 	<br> <b>It includes the following functions:</b>
 	<ul class="list-unstyled">
